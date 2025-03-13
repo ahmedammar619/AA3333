@@ -1,5 +1,7 @@
 # AA3333 Game
 
+![AA3333 Game Preview](final.png)
+
 ## Overview
 AA3333 is an engaging obstacle-avoidance game where players navigate a character through a series of increasingly challenging mazes to reach an exit gate. The game features multiple levels with various obstacles, including blocks, bombs, and moving barriers. Players must complete each level within a time limit, making strategic decisions to find the most efficient path to the exit.
 
